@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Day20\\Day20UserRegistrationUseCase2\\Day20UserRegistrationUseCase2.csproj": {}
+    "C:\\Day21\\Day21UserRegistrationUseCase2\\Day21UserRegistrationUseCase2.csproj": {}
   },
   "projects": {
-    "C:\\Day20\\Day20UserRegistrationUseCase2\\Day20UserRegistrationUseCase2.csproj": {
+    "C:\\Day21\\Day21UserRegistrationUseCase2\\Day21UserRegistrationUseCase2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Day20\\Day20UserRegistrationUseCase2\\Day20UserRegistrationUseCase2.csproj",
-        "projectName": "Day20UserRegistrationUseCase2",
-        "projectPath": "C:\\Day20\\Day20UserRegistrationUseCase2\\Day20UserRegistrationUseCase2.csproj",
+        "projectUniqueName": "C:\\Day21\\Day21UserRegistrationUseCase2\\Day21UserRegistrationUseCase2.csproj",
+        "projectName": "Day21UserRegistrationUseCase2",
+        "projectPath": "C:\\Day21\\Day21UserRegistrationUseCase2\\Day21UserRegistrationUseCase2.csproj",
         "packagesPath": "C:\\Users\\3011313\\.nuget\\packages\\",
-        "outputPath": "C:\\Day20\\Day20UserRegistrationUseCase2\\obj\\",
+        "outputPath": "C:\\Day21\\Day21UserRegistrationUseCase2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\3011313\\AppData\\Roaming\\NuGet\\NuGet.Config",

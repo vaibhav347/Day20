@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Day20UserRegistrationUseCase2
+namespace Day21UserRegistrationUseCase2
 {
     class Program
     {
