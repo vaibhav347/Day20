@@ -1,0 +1,14 @@
+C:\Day21\Day21MoodAnalyzerUseCase2\bin\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.exe
+C:\Day21\Day21MoodAnalyzerUseCase2\bin\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.deps.json
+C:\Day21\Day21MoodAnalyzerUseCase2\bin\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.runtimeconfig.json
+C:\Day21\Day21MoodAnalyzerUseCase2\bin\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.runtimeconfig.dev.json
+C:\Day21\Day21MoodAnalyzerUseCase2\bin\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.dll
+C:\Day21\Day21MoodAnalyzerUseCase2\bin\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.pdb
+C:\Day21\Day21MoodAnalyzerUseCase2\obj\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.csproj.AssemblyReference.cache
+C:\Day21\Day21MoodAnalyzerUseCase2\obj\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day21\Day21MoodAnalyzerUseCase2\obj\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.AssemblyInfoInputs.cache
+C:\Day21\Day21MoodAnalyzerUseCase2\obj\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.AssemblyInfo.cs
+C:\Day21\Day21MoodAnalyzerUseCase2\obj\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.csproj.CoreCompileInputs.cache
+C:\Day21\Day21MoodAnalyzerUseCase2\obj\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.dll
+C:\Day21\Day21MoodAnalyzerUseCase2\obj\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.pdb
+C:\Day21\Day21MoodAnalyzerUseCase2\obj\Debug\netcoreapp3.1\Day21MoodAnalyzerUseCase2.genruntimeconfig.cache
